@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhavya Khatri</h1>
-<h3 align="center">A passionate frontend developer crafts seamless, user-centric interfaces, merging design and code harmoniously, while embracing constant learning and collaboration.</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bk408&label=Profile%20views&color=0e75b6&style=flat" alt="bk408" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bk408" alt="bk408" /></a> </p>
 
-- 🔭 I’m currently working on **Namaste React**
+- 🔭 I’m currently working at **MattsenKumar LLC**
 
 - 🌱 I’m currently learning **React, JavaScript**
 
@@ -19,11 +19,13 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/110YcH8eeawS-KBkwQK4z3KECz-WN7725/view?usp=sharing](https://drive.google.com/file/d/110YcH8eeawS-KBkwQK4z3KECz-WN7725/view?usp=sharing)
 
+- ⚡ Fun fact **I love creating content**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bhavya-khatri-12a046131/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhavya-khatri-12a046131/" height="30" width="40" /></a>
 <a href="https://instagram.com/bhavy4313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhavy4313" height="30" width="40" /></a>
-<a href="https://medium.com/@bhavyakhatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhavyakhatri" height="30" width="40" /></a>
+<a href="https://medium.com/bhavyakhatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="bhavyakhatri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
