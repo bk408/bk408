@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://bhavya-khatri-portfolio.vercel.app/](https://bhavyak-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://bhavyak-portfolio.vercel.app/]
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/bhavya-khatri-12a046131/](https://www.linkedin.com/in/bhavya-khatri-12a046131/)
 
