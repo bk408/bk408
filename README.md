@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bk408" alt="bk408" /></a> </p>
 
-- 🔭 I’m currently working at **MattsenKumar LLC**
+- 🔭 I’m currently working as a Freelancer and looking for opportunity**
 
 - 🌱 I’m currently learning **React, JavaScript**
 
